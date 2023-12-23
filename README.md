@@ -1,2 +1,10 @@
-# Onion-Theme-Remix-OOSFC-Plastic-Leaf-EU-Hakchi-Pixel-Art-icons
-Remix Theme for Miyoo mini &amp; Miyoo mini Plus
+# `OOSFC by ytdcpndsgn (with custom bootscreen)`
+# `+`
+# `Plastic Leaf (EU) by leafflat`
+# `+`
+# `Screen_Off.png from PAC-MIYOO by tenlevels`
+# `Theme Remix`
+# `+`
+# `Hakchi Pixel Art by faustbear icons`
+# `+`
+# `Some custom icons`
