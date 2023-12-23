@@ -18,4 +18,5 @@ Hakchi Pixel Art by faustbear icons
 
 Some custom icons
 
+Just download and paste it into Themes folder.
 Hope you like it!! :)
