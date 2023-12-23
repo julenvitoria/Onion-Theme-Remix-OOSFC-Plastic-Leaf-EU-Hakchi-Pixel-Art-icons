@@ -1,4 +1,4 @@
-Remix Theme for Miyoo mini & Miyoo mini Plus based on:
+Remix Theme for Onion OS on Miyoo mini & Miyoo mini Plus based on:
 
 OOSFC by ytdcpndsgn (with custom bootscreen)
 
