@@ -12,7 +12,7 @@ Screen_Off.png from PAC-MIYOO by tenlevels
 
 +
 
-Hakchi Pixel Art by faustbear icons
+Hakchi Pixel Art icons by faustbear 
 
 +
 
